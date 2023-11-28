@@ -17,5 +17,5 @@ else if(exam % 7 == 0 ){
 else{
     console.log("bo'linmaydi");
 }
-exam.value = ''
+Enput.value = ""
 }
